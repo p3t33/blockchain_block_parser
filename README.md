@@ -13,7 +13,6 @@ This is a beta version and I may add some extra features in the future.
   git clone https://github.com/p3t33/blockchain_block_parser.git
   ```
 2. A row BitcoinCash block is located in ./block 
-  ```
 
 ### Compiling and running the tests
 1. Unit test is available for parser.cpp, navigate to ./unit_testing folder and
