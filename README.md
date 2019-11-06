@@ -32,3 +32,7 @@ code was tested for memory leaks via valgrind 3.13.0
 ### Authors
 
 **Kobi Medrish** - *beta version* - [p3t33](https://github.com/p3t33)
+
+### License
+
+Licensed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license.
