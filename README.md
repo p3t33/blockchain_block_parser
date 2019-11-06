@@ -31,4 +31,4 @@ code was tested for memory leaks via valgrind 3.13.0
 
 ### Authors
 
-**Kobi Medrish** - *beta version* - [p3t33]https://github.com/p3t33)
+**Kobi Medrish** - *beta version* - [p3t33](https://github.com/p3t33)
